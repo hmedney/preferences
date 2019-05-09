@@ -1,0 +1,14 @@
+Material Dark Blue Grey
+```
+#212121,#212121,#607D8B,#FFFFFF,#607D8B,#FFFFFF,#607D8B,#607D8B
+```
+
+Mojave Dark Mode Blue
+```
+#333336,#2e2e31,#666668,#ffffff,#277df6,#d7d5d4,#277df6,#277df6
+```
+
+One Dark
+```
+#21252B,#272C33,#31363F,#D7DAE0,#272C33,#D7DAE0,#20B684,#528BFF
+```
